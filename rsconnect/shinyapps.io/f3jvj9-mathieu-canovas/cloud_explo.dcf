@@ -1,0 +1,13 @@
+name: cloud_explo
+title: cloud_explo
+username: f3jvj9-mathieu-canovas
+account: f3jvj9-mathieu-canovas
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 17009801
+bundleId: 11776194
+url: https://f3jvj9-mathieu-canovas.shinyapps.io/cloud_explo/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app3.R|indices_classes.rds|modele_nuages.h5
