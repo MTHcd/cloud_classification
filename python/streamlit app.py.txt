@@ -1,0 +1,8 @@
+streamlit app.py
+=============
+modifier le dataset
+=============
+lancer le notebook entraînement puis l'application streamlit pour entraînement;
+=============
+une fois efficace, le déployer;
+
